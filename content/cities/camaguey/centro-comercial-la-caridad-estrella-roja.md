@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial La Caridad (Estrella Roja)"
-url: /camagueey/centro-comercial-la-caridad-estrella-roja/
+url: /camaguey/centro-comercial-la-caridad-estrella-roja/
 shop: centro comercial
 ---

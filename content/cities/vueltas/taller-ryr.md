@@ -1,5 +1,5 @@
 ---
 title: "Taller R&R"
-url: /vueltas/taller-rundr/
+url: /vueltas/taller-ryr/
 shop: ordenador
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller de Autos Nuevos"
-url: /jagueey-grande/taller-de-autos-nuevos/
+url: /jaguey-grande/taller-de-autos-nuevos/
 shop: reparación de automóviles
 ---

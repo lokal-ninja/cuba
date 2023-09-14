@@ -1,6 +1,6 @@
 ---
-title: Camaguey
+title: Camagüey
 url: /camaguey/
-latitude: 21.391
-longitude: -77.936
+latitude: 21.381
+longitude: -77.918
 ---

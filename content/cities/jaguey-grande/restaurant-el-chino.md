@@ -1,5 +1,5 @@
 ---
 title: "Restaurant El Chino"
-url: /jagueey-grande/restaurant-el-chino/
+url: /jaguey-grande/restaurant-el-chino/
 shop: bebidas
 ---

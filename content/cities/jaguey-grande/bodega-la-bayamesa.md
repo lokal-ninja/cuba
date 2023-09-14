@@ -1,5 +1,5 @@
 ---
 title: "Bodega La Bayamesa"
-url: /jagueey-grande/bodega-la-bayamesa/
+url: /jaguey-grande/bodega-la-bayamesa/
 shop: supermercado
 ---

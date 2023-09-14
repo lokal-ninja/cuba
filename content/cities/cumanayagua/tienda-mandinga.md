@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
-url: /cumanayagua/tienda/
+url: /cumanayagua/tienda-mandinga/
 shop: comodidad
 ---

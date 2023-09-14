@@ -1,5 +1,5 @@
 ---
 title: "Galería Taller Larios"
-url: /camagueey/galeria-taller-larios/
+url: /camaguey/galeria-taller-larios/
 shop: arte
 ---

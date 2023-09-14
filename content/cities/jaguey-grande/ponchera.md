@@ -1,5 +1,5 @@
 ---
 title: "Ponchera"
-url: /jagueey-grande/ponchera/
+url: /jaguey-grande/ponchera/
 shop: neumáticos
 ---

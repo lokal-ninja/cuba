@@ -1,5 +1,5 @@
 ---
 title: "Infotur"
-url: /camagueey/infotur/
+url: /camaguey/infotur/
 shop: agencia de viajes
 ---

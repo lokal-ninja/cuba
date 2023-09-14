@@ -1,5 +1,5 @@
 ---
 title: "Praga"
-url: /jagueey-grande/praga/
+url: /jaguey-grande/praga/
 shop: supermercado
 ---

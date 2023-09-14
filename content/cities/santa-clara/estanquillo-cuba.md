@@ -1,5 +1,5 @@
 ---
 title: "Estanquillo"
-url: /santa-clara/estanquillo/
+url: /santa-clara/estanquillo-cuba/
 shop: quiosco
 ---

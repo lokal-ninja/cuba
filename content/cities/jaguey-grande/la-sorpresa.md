@@ -1,5 +1,5 @@
 ---
 title: "La Sorpresa"
-url: /jagueey-grande/la-sorpresa/
+url: /jaguey-grande/la-sorpresa/
 shop: supermercado
 ---

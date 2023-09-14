@@ -1,5 +1,5 @@
 ---
 title: "P&G Travel"
-url: /la-habana/pundg-travel/
+url: /la-habana/pyg-travel/
 shop: agencia de viajes
 ---
