@@ -1,6 +1,6 @@
 ---
 title: Samá
 url: /sama/
-latitude: 21.056
-longitude: -75.775
+latitude: 21.049
+longitude: -75.781
 ---
