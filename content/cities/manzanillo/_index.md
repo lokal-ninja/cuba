@@ -1,6 +1,6 @@
 ---
 title: Manzanillo
 url: /manzanillo/
-latitude: 20.346
-longitude: -77.114
+latitude: 20.344
+longitude: -77.121
 ---
