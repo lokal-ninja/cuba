@@ -1,5 +1,5 @@
 ---
 title: "Tienda Online CombitosHlg"
-url: /holguin/tienda-online-combitoshlg/
+url: /reparto-lenin-holguin/tienda-online-combitoshlg/
 shop: puesto de avanzada
 ---
