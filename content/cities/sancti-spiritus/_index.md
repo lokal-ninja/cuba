@@ -1,6 +1,6 @@
 ---
-title: Sancti Spíritus
+title: Sancti Spiritus
 url: /sancti-spiritus/
-latitude: 21.941
-longitude: -79.442
+latitude: 21.932
+longitude: -79.444
 ---
