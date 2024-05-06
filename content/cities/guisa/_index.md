@@ -1,6 +1,6 @@
 ---
 title: Guisa
 url: /guisa/
-latitude: 20.259
-longitude: -76.541
+latitude: 20.255
+longitude: -76.538
 ---
