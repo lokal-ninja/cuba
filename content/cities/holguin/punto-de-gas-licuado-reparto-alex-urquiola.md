@@ -1,5 +1,5 @@
 ---
-title: "Punto de gas licuado Reparto Alex Urquiola"
+title: "Punto de Gas Licuado Reparto Alex Urquiola"
 url: /holguin/punto-de-gas-licuado-reparto-alex-urquiola/
 shop: gas
 ---
