@@ -1,5 +1,5 @@
 ---
 title: "Chic-habana"
 url: /la-habana/chic-habana/
-shop: cosméticos
+shop: Kosmetik
 ---

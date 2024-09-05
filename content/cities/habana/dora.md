@@ -1,5 +1,5 @@
 ---
 title: "dora"
 url: /habana/dora/
-shop: sastre
+shop: Schneiderei
 ---

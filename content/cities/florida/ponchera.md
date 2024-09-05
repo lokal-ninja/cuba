@@ -1,5 +1,5 @@
 ---
 title: "Ponchera"
 url: /florida/ponchera/
-shop: neumáticos
+shop: Reifen
 ---

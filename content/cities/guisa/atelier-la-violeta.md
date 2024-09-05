@@ -1,5 +1,5 @@
 ---
 title: "Atelier La Violeta"
 url: /guisa/atelier-la-violeta/
-shop: sastre
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Llaves Atriple"
 url: /ciudad-de-matanzas/llaves-atriple/
-shop: electrónica
+shop: Elektronik
 ---

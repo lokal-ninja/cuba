@@ -1,5 +1,5 @@
 ---
 title: "Barbería"
 url: /palmira/barberia/
-shop: peluquería
+shop: Friseur
 ---

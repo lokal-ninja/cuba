@@ -1,5 +1,5 @@
 ---
 title: "DanyLam"
 url: /la-habana/danylam/
-shop: peluquería canina
+shop: Tiersalon
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tattoo"
 url: /manacas/tattoo/
-shop: tatuaje
+shop: Tattoo
 ---

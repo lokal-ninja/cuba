@@ -1,5 +1,5 @@
 ---
 title: "Monte Barreto"
 url: /la-habana/monte-barreto/
-shop: electrónica
+shop: Elektronik
 ---

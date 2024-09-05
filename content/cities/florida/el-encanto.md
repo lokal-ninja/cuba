@@ -1,5 +1,5 @@
 ---
 title: "El Encanto"
 url: /florida/el-encanto/
-shop: tienda rural
+shop: Dorfladen
 ---

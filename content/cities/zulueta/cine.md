@@ -1,5 +1,5 @@
 ---
 title: "Cine"
 url: /zulueta/cine/
-shop: vídeo
+shop: Videothek
 ---

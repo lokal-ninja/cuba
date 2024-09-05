@@ -1,5 +1,5 @@
 ---
 title: "Imagen"
 url: /florida/imagen/
-shop: artesanía
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmacia"
 url: /cumanayagua/farmacia/
-shop: farmacia
+shop: Drogerie
 ---

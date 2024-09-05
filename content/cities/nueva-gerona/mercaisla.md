@@ -1,5 +1,5 @@
 ---
 title: "MERCAISLA"
 url: /nueva-gerona/mercaisla/
-shop: cocina
+shop: Küchen
 ---

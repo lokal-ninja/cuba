@@ -1,5 +1,5 @@
 ---
 title: "Artex Palmira"
 url: /palmira/artex-palmira/
-shop: regalo
+shop: Andenken
 ---

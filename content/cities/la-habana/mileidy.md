@@ -1,5 +1,5 @@
 ---
 title: "Mileidy"
 url: /la-habana/mileidy/
-shop: cosméticos
+shop: Kosmetik
 ---

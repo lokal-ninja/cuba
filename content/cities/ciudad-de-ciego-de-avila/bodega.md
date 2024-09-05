@@ -1,5 +1,5 @@
 ---
 title: "Bodega"
 url: /ciudad-de-ciego-de-avila/bodega/
-shop: comodidad
+shop: Lebensmittel
 ---

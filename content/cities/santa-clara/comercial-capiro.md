@@ -1,5 +1,5 @@
 ---
 title: "Comercial Capiro"
 url: /santa-clara/comercial-capiro/
-shop: carnicero
+shop: Metzgerei
 ---

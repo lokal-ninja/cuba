@@ -1,5 +1,5 @@
 ---
 title: "Vinos Don José"
 url: /ciego-de-avila/vinos-don-jose/
-shop: vino
+shop: Wein
 ---

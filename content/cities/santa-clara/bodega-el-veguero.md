@@ -1,5 +1,5 @@
 ---
 title: "Bodega El Veguero"
 url: /santa-clara/bodega-el-veguero/
-shop: comodidad
+shop: Lebensmittel
 ---

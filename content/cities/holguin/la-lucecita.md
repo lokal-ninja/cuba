@@ -1,5 +1,5 @@
 ---
 title: "La Lucecita"
 url: /holguin/la-lucecita/
-shop: regalo
+shop: Andenken
 ---

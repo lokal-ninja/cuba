@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /quivican/panaderia/
-shop: panadería
+shop: Bäckerei
 ---

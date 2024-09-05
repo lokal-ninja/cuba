@@ -1,5 +1,5 @@
 ---
 title: "La Vicentina"
 url: /vedado-la-habana/la-vicentina/
-shop: panadería
+shop: Bäckerei
 ---

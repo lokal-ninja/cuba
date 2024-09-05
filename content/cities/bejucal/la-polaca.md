@@ -1,5 +1,5 @@
 ---
 title: "La Polaca"
 url: /bejucal/la-polaca/
-shop: electrónica
+shop: Elektronik
 ---

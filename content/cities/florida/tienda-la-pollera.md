@@ -1,5 +1,5 @@
 ---
 title: "Tienda La Pollera"
 url: /florida/tienda-la-pollera/
-shop: comodidad
+shop: Lebensmittel
 ---

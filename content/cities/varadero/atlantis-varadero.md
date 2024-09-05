@@ -1,5 +1,5 @@
 ---
 title: "Atlantis Varadero"
 url: /varadero/atlantis-varadero/
-shop: buceo
+shop: Tauchen
 ---

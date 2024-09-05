@@ -1,5 +1,5 @@
 ---
 title: "Bodega La Sirena"
 url: /santa-clara/bodega-la-sirena/
-shop: comodidad
+shop: Lebensmittel
 ---

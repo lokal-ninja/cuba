@@ -1,5 +1,5 @@
 ---
 title: "Bodega La Comercial"
 url: /santa-clara/bodega-la-comercial/
-shop: comodidad
+shop: Lebensmittel
 ---

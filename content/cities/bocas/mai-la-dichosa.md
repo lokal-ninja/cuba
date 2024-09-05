@@ -1,5 +1,5 @@
 ---
 title: "MAI La dichosa"
 url: /bocas/mai-la-dichosa/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodega El Encanto"
 url: /guisa/bodega-el-encanto/
-shop: comodidad
+shop: Lebensmittel
 ---

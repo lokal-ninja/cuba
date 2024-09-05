@@ -1,5 +1,5 @@
 ---
 title: "Optica Palma"
 url: /palma-soriano/optica-palma/
-shop: óptico
+shop: Optiker
 ---

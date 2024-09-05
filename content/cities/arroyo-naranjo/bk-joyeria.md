@@ -1,5 +1,5 @@
 ---
 title: "BK Joyeria"
 url: /arroyo-naranjo/bk-joyeria/
-shop: joyería
+shop: Schmuck
 ---

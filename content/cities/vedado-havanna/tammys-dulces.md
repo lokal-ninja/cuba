@@ -1,5 +1,5 @@
 ---
 title: "Tammy's Dulces"
 url: /vedado-havanna/tammys-dulces/
-shop: panadería
+shop: Bäckerei
 ---
