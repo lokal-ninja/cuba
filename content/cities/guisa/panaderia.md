@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /guisa/panaderia/
-shop: Bäckerei
+shop: panadería
 ---

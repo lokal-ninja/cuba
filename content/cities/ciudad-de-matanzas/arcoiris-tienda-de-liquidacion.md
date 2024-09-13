@@ -1,5 +1,5 @@
 ---
 title: "Arcoiris (Tienda de liquidación)"
 url: /ciudad-de-matanzas/arcoiris-tienda-de-liquidacion/
-shop: Andenken
+shop: regalo
 ---

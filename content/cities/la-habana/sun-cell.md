@@ -1,5 +1,5 @@
 ---
 title: "Sun Cell"
 url: /la-habana/sun-cell/
-shop: Handy
+shop: teléfono móvil
 ---

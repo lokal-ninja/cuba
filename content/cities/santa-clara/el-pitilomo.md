@@ -1,5 +1,5 @@
 ---
 title: "El Pitilomo"
 url: /santa-clara/el-pitilomo/
-shop: Metzgerei
+shop: carnicero
 ---

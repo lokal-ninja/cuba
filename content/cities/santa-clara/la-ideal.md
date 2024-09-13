@@ -1,5 +1,5 @@
 ---
 title: "La Ideal"
 url: /santa-clara/la-ideal/
-shop: Metzgerei
+shop: carnicero
 ---

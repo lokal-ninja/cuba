@@ -1,5 +1,5 @@
 ---
 title: "The Black Eagle"
 url: /santiago-de-las-vegas/the-black-eagle/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

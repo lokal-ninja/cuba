@@ -1,5 +1,5 @@
 ---
 title: "Bodega"
 url: /cumanayagua/bodega/
-shop: Lebensmittel
+shop: comodidad
 ---

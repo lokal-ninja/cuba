@@ -1,5 +1,5 @@
 ---
 title: "Manacas"
 url: /manacas/manacas/
-shop: Dorfladen
+shop: tienda rural
 ---

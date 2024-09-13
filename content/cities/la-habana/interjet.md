@@ -1,5 +1,5 @@
 ---
 title: "Interjet"
 url: /la-habana/interjet/
-shop: Reisebüro
+shop: agencia de viajes
 ---

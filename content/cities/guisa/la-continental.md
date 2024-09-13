@@ -1,5 +1,5 @@
 ---
 title: "La Continental"
 url: /guisa/la-continental/
-shop: Supermarkt
+shop: supermercado
 ---

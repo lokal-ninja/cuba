@@ -1,5 +1,5 @@
 ---
 title: "Cárnico Peñas Altas"
 url: /ciudad-de-matanzas/carnico-penas-altas/
-shop: Metzgerei
+shop: carnicero
 ---

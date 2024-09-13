@@ -1,5 +1,5 @@
 ---
 title: "Camacho"
 url: /santa-clara/camacho/
-shop: Bestattungen
+shop: directores de funerarias
 ---

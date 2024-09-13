@@ -1,5 +1,5 @@
 ---
 title: "La Caribeña"
 url: /florida/la-caribena/
-shop: Warenhaus
+shop: grandes almacenes
 ---

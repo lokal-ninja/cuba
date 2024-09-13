@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Caimito"
 url: /caimito/funeraria-caimito/
-shop: Bestattungen
+shop: directores de funerarias
 ---

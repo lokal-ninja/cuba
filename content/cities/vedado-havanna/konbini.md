@@ -1,5 +1,5 @@
 ---
 title: "Konbini"
 url: /vedado-havanna/konbini/
-shop: Lebensmittel
+shop: comodidad
 ---

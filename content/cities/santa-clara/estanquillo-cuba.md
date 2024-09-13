@@ -1,5 +1,5 @@
 ---
 title: "Estanquillo"
 url: /santa-clara/estanquillo-cuba/
-shop: Zeitungen
+shop: quiosco
 ---

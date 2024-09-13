@@ -1,5 +1,5 @@
 ---
 title: "Evelop"
 url: /la-habana/evelop/
-shop: Reisebüro
+shop: agencia de viajes
 ---

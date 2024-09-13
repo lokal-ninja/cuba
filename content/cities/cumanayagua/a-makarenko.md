@@ -1,5 +1,5 @@
 ---
 title: "A. Makarenko"
 url: /cumanayagua/a-makarenko/
-shop: Bücher
+shop: libros
 ---

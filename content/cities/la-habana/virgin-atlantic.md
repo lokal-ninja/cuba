@@ -1,5 +1,5 @@
 ---
 title: "Virgin Atlantic"
 url: /la-habana/virgin-atlantic/
-shop: Reisebüro
+shop: agencia de viajes
 ---

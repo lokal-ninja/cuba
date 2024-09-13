@@ -1,5 +1,5 @@
 ---
 title: "Tienda Bamba"
 url: /palma-soriano/tienda-bamba/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pcell"
 url: /santa-clara-villa-clara/pcell/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TRD Plazoleta"
 url: /santa-cruz-del-norte/trd-plazoleta/
-shop: Supermarkt
+shop: supermercado
 ---

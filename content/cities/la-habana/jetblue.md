@@ -1,5 +1,5 @@
 ---
 title: "jetBlue"
 url: /la-habana/jetblue/
-shop: Reisebüro
+shop: agencia de viajes
 ---

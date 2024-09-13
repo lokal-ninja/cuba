@@ -1,5 +1,5 @@
 ---
 title: "Julio"
 url: /holguin/julio/
-shop: Fahrrad
+shop: bicicleta
 ---

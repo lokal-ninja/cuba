@@ -1,5 +1,5 @@
 ---
 title: "PROMOVIL"
 url: /la-habana/promovil/
-shop: Handy
+shop: teléfono móvil
 ---

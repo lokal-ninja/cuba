@@ -1,5 +1,5 @@
 ---
 title: "QuivCel Electrónics"
 url: /quivican/quivcel-electronics/
-shop: Handy
+shop: teléfono móvil
 ---

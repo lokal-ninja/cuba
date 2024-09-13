@@ -1,5 +1,5 @@
 ---
 title: "Blake'Stickers"
 url: /centro-habana/blakestickers/
-shop: Allgemein
+shop: general
 ---

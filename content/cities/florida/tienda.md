@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /florida/tienda/
-shop: Allgemein
+shop: general
 ---

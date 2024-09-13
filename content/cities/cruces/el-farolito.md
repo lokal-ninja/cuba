@@ -1,5 +1,5 @@
 ---
 title: "El Farolito"
 url: /cruces/el-farolito/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Manacas"
 url: /manacas/funeraria-manacas/
-shop: Bestattungen
+shop: directores de funerarias
 ---

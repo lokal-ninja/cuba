@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Morón"
 url: /moron/funeraria-moron/
-shop: Bestattungen
+shop: directores de funerarias
 ---

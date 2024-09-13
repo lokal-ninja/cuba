@@ -1,5 +1,5 @@
 ---
 title: "El Renacer"
 url: /quivican/el-renacer/
-shop: Kaffee
+shop: café
 ---

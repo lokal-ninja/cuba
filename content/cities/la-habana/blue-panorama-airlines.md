@@ -1,5 +1,5 @@
 ---
 title: "Blue Panorama Airlines"
 url: /la-habana/blue-panorama-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

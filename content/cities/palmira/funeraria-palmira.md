@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Palmira"
 url: /palmira/funeraria-palmira/
-shop: Bestattungen
+shop: directores de funerarias
 ---

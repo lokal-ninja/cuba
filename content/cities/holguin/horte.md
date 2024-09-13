@@ -1,5 +1,5 @@
 ---
 title: "Horte"
 url: /holguin/horte/
-shop: Schokolade
+shop: chocolate
 ---

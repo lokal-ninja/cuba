@@ -1,5 +1,5 @@
 ---
 title: "TRD"
 url: /ciudad-de-matanzas/trd/
-shop: Allgemein
+shop: general
 ---

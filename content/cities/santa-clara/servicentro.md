@@ -1,5 +1,5 @@
 ---
 title: "Servicentro"
 url: /santa-clara/servicentro/
-shop: Kramladen
+shop: tienda de variedades
 ---

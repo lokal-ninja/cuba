@@ -1,5 +1,5 @@
 ---
 title: "Los Fornos"
 url: /la-habana/los-fornos/
-shop: Lebensmittel
+shop: comodidad
 ---

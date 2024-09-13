@@ -1,5 +1,5 @@
 ---
 title: "MountainCuba Taller"
 url: /la-habana/mountaincuba-taller/
-shop: Fahrrad
+shop: bicicleta
 ---

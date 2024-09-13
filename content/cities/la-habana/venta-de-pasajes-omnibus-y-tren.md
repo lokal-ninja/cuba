@@ -1,5 +1,5 @@
 ---
 title: "Venta de pasajes ómnibus y tren"
 url: /la-habana/venta-de-pasajes-omnibus-y-tren/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sylvain"
 url: /la-habana/sylvain-calzada-del-cerro/
-shop: Bäckerei
+shop: panadería
 ---

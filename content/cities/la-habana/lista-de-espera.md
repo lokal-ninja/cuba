@@ -1,5 +1,5 @@
 ---
 title: "Lista de Espera"
 url: /la-habana/lista-de-espera/
-shop: Tickets
+shop: entradas
 ---

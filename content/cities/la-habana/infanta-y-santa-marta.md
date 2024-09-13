@@ -1,5 +1,5 @@
 ---
 title: "Infanta y Santa Marta"
 url: /la-habana/infanta-y-santa-marta/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda La Violeta"
 url: /palma-soriano/tienda-la-violeta/
-shop: Lebensmittel
+shop: comodidad
 ---

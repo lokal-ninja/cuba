@@ -1,5 +1,5 @@
 ---
 title: "La Complaciente"
 url: /cumanayagua/la-complaciente/
-shop: Lebensmittel
+shop: comodidad
 ---

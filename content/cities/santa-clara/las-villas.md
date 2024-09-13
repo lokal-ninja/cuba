@@ -1,5 +1,5 @@
 ---
 title: "Las Villas"
 url: /santa-clara/las-villas/
-shop: Bestattungen
+shop: directores de funerarias
 ---

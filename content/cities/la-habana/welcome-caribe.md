@@ -1,5 +1,5 @@
 ---
 title: "Welcome Caribe"
 url: /la-habana/welcome-caribe/
-shop: Reisebüro
+shop: agencia de viajes
 ---

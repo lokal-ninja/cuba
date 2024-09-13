@@ -1,5 +1,5 @@
 ---
 title: "Crystal Studio"
 url: /holguin/crystal-studio/
-shop: Schreibwaren
+shop: material de oficina
 ---

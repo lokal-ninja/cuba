@@ -1,5 +1,5 @@
 ---
 title: "La Reconstructora"
 url: /trinidad/la-reconstructora/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

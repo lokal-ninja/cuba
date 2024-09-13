@@ -1,5 +1,5 @@
 ---
 title: "Placita Bellamar"
 url: /ciudad-de-matanzas/placita-bellamar/
-shop: Hofladen
+shop: granja
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CubaNav"
 url: /san-nicolas/cubanav/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

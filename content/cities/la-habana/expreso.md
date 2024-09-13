@@ -1,5 +1,5 @@
 ---
 title: "Expreso"
 url: /la-habana/expreso/
-shop: Handy
+shop: teléfono móvil
 ---

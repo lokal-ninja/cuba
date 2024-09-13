@@ -1,5 +1,5 @@
 ---
 title: "La Victoria"
 url: /cumanayagua/la-victoria/
-shop: Lebensmittel
+shop: comodidad
 ---

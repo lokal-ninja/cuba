@@ -1,5 +1,5 @@
 ---
 title: "ETECSA"
 url: /cienfuegos/etecsa/
-shop: Handy
+shop: teléfono móvil
 ---

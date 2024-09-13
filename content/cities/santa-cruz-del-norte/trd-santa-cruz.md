@@ -1,5 +1,5 @@
 ---
 title: "TRD Santa Cruz"
 url: /santa-cruz-del-norte/trd-santa-cruz/
-shop: Lebensmittel
+shop: comodidad
 ---

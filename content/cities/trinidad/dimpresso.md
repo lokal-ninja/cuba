@@ -1,5 +1,5 @@
 ---
 title: "DIMPRESSO"
 url: /trinidad/dimpresso/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Veneración. ARTEX"
 url: /santiago-de-cuba/tienda-veneracion-artex/
-shop: Basteln
+shop: artesanía
 ---

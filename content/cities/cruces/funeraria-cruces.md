@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Cruces"
 url: /cruces/funeraria-cruces/
-shop: Bestattungen
+shop: directores de funerarias
 ---

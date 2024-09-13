@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /olivos-iii/tienda/
-shop: Dorfladen
+shop: tienda rural
 ---

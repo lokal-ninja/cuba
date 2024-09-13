@@ -1,5 +1,5 @@
 ---
 title: "Shopping"
 url: /charco-redondo-las-minas-harlen/shopping/
-shop: Supermarkt
+shop: supermercado
 ---

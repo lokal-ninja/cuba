@@ -1,5 +1,5 @@
 ---
 title: "TelMóvil"
 url: /cienfuegos/telmovil/
-shop: Handy
+shop: teléfono móvil
 ---

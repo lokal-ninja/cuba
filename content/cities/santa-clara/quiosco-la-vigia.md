@@ -1,5 +1,5 @@
 ---
 title: "Quiosco La Vigía"
 url: /santa-clara/quiosco-la-vigia/
-shop: Kiosk
+shop: quiosco
 ---

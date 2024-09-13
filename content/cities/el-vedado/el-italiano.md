@@ -1,5 +1,5 @@
 ---
 title: "El Italiano"
 url: /el-vedado/el-italiano/
-shop: Möbel
+shop: muebles
 ---

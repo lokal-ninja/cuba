@@ -1,5 +1,5 @@
 ---
 title: "Impresiones al momento"
 url: /ciudad-de-guanajay/impresiones-al-momento/
-shop: Kopieren
+shop: copyshop
 ---

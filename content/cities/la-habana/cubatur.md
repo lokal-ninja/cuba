@@ -1,5 +1,5 @@
 ---
 title: "Cubatur"
 url: /la-habana/cubatur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

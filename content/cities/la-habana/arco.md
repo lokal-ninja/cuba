@@ -1,5 +1,5 @@
 ---
 title: "ARCO"
 url: /la-habana/arco/
-shop: Computer
+shop: ordenador
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Select"
 url: /miramar-playa-la-habana/le-select/
-shop: Kramladen
+shop: tienda de variedades
 ---

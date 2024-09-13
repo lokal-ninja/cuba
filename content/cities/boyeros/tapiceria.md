@@ -1,5 +1,5 @@
 ---
 title: "Tapicería"
 url: /boyeros/tapiceria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

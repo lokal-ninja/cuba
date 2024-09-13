@@ -1,5 +1,5 @@
 ---
 title: "Condor"
 url: /la-habana/condor/
-shop: Reisebüro
+shop: agencia de viajes
 ---

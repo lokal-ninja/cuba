@@ -1,5 +1,5 @@
 ---
 title: "CNoA AUTOCHAPT - Taller 4"
 url: /abel-santamaria/cnoa-autochapt-taller-4/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

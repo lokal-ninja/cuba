@@ -1,5 +1,5 @@
 ---
 title: "Mercado de H"
 url: /la-habana/mercado-de-h/
-shop: Supermarkt
+shop: supermercado
 ---

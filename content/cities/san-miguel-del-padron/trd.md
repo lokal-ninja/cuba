@@ -1,5 +1,5 @@
 ---
 title: "TRD"
 url: /san-miguel-del-padron/trd/
-shop: Lebensmittel
+shop: comodidad
 ---

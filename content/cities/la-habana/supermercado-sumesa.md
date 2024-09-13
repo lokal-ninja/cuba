@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Sumesa"
 url: /la-habana/supermercado-sumesa/
-shop: Supermarkt
+shop: supermercado
 ---

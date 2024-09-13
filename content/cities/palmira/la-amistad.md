@@ -1,5 +1,5 @@
 ---
 title: "La Amistad"
 url: /palmira/la-amistad/
-shop: Kramladen
+shop: tienda de variedades
 ---

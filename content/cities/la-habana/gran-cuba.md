@@ -1,5 +1,5 @@
 ---
 title: "Gran Cuba"
 url: /la-habana/gran-cuba/
-shop: Reisebüro
+shop: agencia de viajes
 ---

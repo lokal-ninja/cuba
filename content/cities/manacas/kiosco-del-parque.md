@@ -1,5 +1,5 @@
 ---
 title: "Kiosco del parque"
 url: /manacas/kiosco-del-parque/
-shop: Kiosk
+shop: quiosco
 ---

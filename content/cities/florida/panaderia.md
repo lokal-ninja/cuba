@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /florida/panaderia/
-shop: Bäckerei
+shop: panadería
 ---

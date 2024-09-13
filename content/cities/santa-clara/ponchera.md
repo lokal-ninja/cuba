@@ -1,5 +1,5 @@
 ---
 title: "Ponchera"
 url: /santa-clara/ponchera/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

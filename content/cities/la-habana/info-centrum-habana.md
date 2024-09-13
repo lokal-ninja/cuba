@@ -1,5 +1,5 @@
 ---
 title: "Info Centrum Habana"
 url: /la-habana/info-centrum-habana/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /santa-clara/peugeot/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cubanacán"
 url: /vedado-havanna/cubanacan/
-shop: Reisebüro
+shop: agencia de viajes
 ---

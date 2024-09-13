@@ -1,5 +1,5 @@
 ---
 title: "Agente de Telecomunicaciones"
 url: /cienfuegos/agente-de-telecomunicaciones/
-shop: Handy
+shop: teléfono móvil
 ---

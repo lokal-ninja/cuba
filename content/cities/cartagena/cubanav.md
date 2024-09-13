@@ -1,5 +1,5 @@
 ---
 title: "CubaNav"
 url: /cartagena/cubanav/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

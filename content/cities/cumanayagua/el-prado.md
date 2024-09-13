@@ -1,5 +1,5 @@
 ---
 title: "El Prado"
 url: /cumanayagua/el-prado/
-shop: Lebensmittel
+shop: comodidad
 ---

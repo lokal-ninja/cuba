@@ -1,5 +1,5 @@
 ---
 title: "Bodegón Las Baleares"
 url: /holguin/bodegon-las-baleares/
-shop: Lebensmittel
+shop: comodidad
 ---

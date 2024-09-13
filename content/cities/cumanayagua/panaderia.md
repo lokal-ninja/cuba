@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /cumanayagua/panaderia/
-shop: Bäckerei
+shop: panadería
 ---

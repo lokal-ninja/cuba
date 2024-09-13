@@ -1,5 +1,5 @@
 ---
 title: "Tienda La Campana"
 url: /palma-soriano/tienda-la-campana/
-shop: Kleidung
+shop: ropa
 ---

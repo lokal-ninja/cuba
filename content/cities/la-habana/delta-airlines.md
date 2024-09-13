@@ -1,5 +1,5 @@
 ---
 title: "Delta Airlines"
 url: /la-habana/delta-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

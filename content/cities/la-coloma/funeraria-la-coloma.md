@@ -1,5 +1,5 @@
 ---
 title: "Funeraria La Coloma"
 url: /la-coloma/funeraria-la-coloma/
-shop: Bestattungen
+shop: directores de funerarias
 ---

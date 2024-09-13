@@ -1,5 +1,5 @@
 ---
 title: "La Década"
 url: /santa-clara/la-decada/
-shop: Dorfladen
+shop: tienda rural
 ---

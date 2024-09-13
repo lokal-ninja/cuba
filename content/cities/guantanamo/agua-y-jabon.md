@@ -1,5 +1,5 @@
 ---
 title: "Agua y Jabón"
 url: /guantanamo/agua-y-jabon/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

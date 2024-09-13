@@ -1,5 +1,5 @@
 ---
 title: "World2fly - Onlinetours Habana"
 url: /la-habana/world2fly-onlinetours-habana/
-shop: Reisebüro
+shop: agencia de viajes
 ---

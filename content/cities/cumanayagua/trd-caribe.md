@@ -1,5 +1,5 @@
 ---
 title: "TRD Caribe"
 url: /cumanayagua/trd-caribe/
-shop: Kramladen
+shop: tienda de variedades
 ---

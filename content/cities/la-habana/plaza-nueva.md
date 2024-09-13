@@ -1,5 +1,5 @@
 ---
 title: "Plaza Nueva"
 url: /la-habana/plaza-nueva/
-shop: Supermarkt
+shop: supermercado
 ---

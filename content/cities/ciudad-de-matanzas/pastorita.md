@@ -1,5 +1,5 @@
 ---
 title: "Pastorita"
 url: /ciudad-de-matanzas/pastorita/
-shop: Allgemein
+shop: general
 ---

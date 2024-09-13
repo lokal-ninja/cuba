@@ -1,5 +1,5 @@
 ---
 title: "El Progreso"
 url: /florida/el-progreso/
-shop: Lebensmittel
+shop: comodidad
 ---

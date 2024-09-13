@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
 url: /nueva-paz/mini-market/
-shop: Lebensmittel
+shop: comodidad
 ---

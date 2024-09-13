@@ -1,5 +1,5 @@
 ---
 title: "hectorcell"
 url: /florida/hectorcell/
-shop: Handy
+shop: teléfono móvil
 ---

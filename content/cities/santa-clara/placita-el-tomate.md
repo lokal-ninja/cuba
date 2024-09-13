@@ -1,5 +1,5 @@
 ---
 title: "Placita El Tomate"
 url: /santa-clara/placita-el-tomate/
-shop: Hofladen
+shop: granja
 ---

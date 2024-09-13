@@ -1,5 +1,5 @@
 ---
 title: "Daily Taxi"
 url: /centro-habana-la-habana/daily-taxi/
-shop: Reisebüro
+shop: agencia de viajes
 ---

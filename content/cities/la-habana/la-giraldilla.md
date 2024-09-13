@@ -1,5 +1,5 @@
 ---
 title: "La Giraldilla"
 url: /la-habana/la-giraldilla/
-shop: Supermarkt
+shop: supermercado
 ---

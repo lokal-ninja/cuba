@@ -1,5 +1,5 @@
 ---
 title: "Las Novedades"
 url: /bayamo/las-novedades/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

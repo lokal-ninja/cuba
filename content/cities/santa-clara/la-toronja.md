@@ -1,5 +1,5 @@
 ---
 title: "La Toronja"
 url: /santa-clara/la-toronja/
-shop: Hofladen
+shop: granja
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Isas Sweet Creations"
 url: /holguin/isas-sweet-creations/
-shop: Konditorei
+shop: pastelería
 ---

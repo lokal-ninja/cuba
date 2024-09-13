@@ -1,5 +1,5 @@
 ---
 title: "Bodega La Sirena"
 url: /guisa/bodega-la-sirena/
-shop: Lebensmittel
+shop: comodidad
 ---

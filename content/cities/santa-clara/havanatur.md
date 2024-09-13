@@ -1,5 +1,5 @@
 ---
 title: "Havanatur"
 url: /santa-clara/havanatur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

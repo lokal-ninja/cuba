@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Mauline (Arroyo Naranjo)"
 url: /arroyo-naranjo/funeraria-mauline-arroyo-naranjo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

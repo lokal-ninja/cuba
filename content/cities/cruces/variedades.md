@@ -1,5 +1,5 @@
 ---
 title: "Variedades"
 url: /cruces/variedades/
-shop: Dorfladen
+shop: tienda rural
 ---

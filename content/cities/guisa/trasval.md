@@ -1,5 +1,5 @@
 ---
 title: "Trasval"
 url: /guisa/trasval/
-shop: Dorfladen
+shop: tienda rural
 ---

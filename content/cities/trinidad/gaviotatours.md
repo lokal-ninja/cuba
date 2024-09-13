@@ -1,5 +1,5 @@
 ---
 title: "Gaviotatours"
 url: /trinidad/gaviotatours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

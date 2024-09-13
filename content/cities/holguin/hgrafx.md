@@ -1,5 +1,5 @@
 ---
 title: "Hgrafx"
 url: /holguin/hgrafx/
-shop: Kopieren
+shop: copyshop
 ---

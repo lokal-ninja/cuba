@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Manicaragua"
 url: /manicaragua/funeraria-manicaragua/
-shop: Bestattungen
+shop: directores de funerarias
 ---
