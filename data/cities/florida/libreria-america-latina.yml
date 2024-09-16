@@ -1,11 +1,11 @@
 id: 721315617
-type: way
+type: node
 latitude: 21.52749
 longitude: -78.2265
 postcode: ""
 city: Florida
-street: "Boulevard Presidente Gómez"
-housenumber: 416
+street: Boulevard Presidente Gómez
+housenumber: "416"
 phone: ""
 opening_hours: ""
 website: ""

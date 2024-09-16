@@ -1,11 +1,11 @@
 id: 456091361
-type: way
+type: node
 latitude: 22.1468
 longitude: -80.20124
 postcode: ""
 city: Cumanayagua
-street: "Antonio Machado"
-housenumber: 
+street: Antonio Machado
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 09:00-12:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 09:00-12:00
 website: ""

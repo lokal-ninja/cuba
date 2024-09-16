@@ -1,11 +1,11 @@
 id: 279665339
-type: way
+type: node
 latitude: 22.40824
 longitude: -79.96448
 postcode: ""
 city: Santa Clara
-street: "Boulevard Independencia"
-housenumber: 
-phone: "42 201057"
-opening_hours: "24/7"
+street: Boulevard Independencia
+housenumber: ""
+phone: 42 201057
+opening_hours: 24/7
 website: ""

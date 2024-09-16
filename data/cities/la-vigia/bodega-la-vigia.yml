@@ -1,11 +1,11 @@
 id: 1138739414
-type: way
+type: node
 latitude: 22.40189
 longitude: -79.9569
 postcode: "50100"
 city: La Vigia
-street: "Carretera Central"
-housenumber: 
+street: Carretera Central
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-11:00, 16:00-19:00"
+opening_hours: Mo-Sa 07:00-11:00, 16:00-19:00
 website: ""

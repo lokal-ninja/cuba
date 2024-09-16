@@ -1,11 +1,11 @@
 id: 1154829358
-type: way
+type: node
 latitude: 22.4057
 longitude: -79.96345
 postcode: "50100"
 city: Santa Clara
-street: "Eduardo Machado (San Cristóbal)"
-housenumber: 
+street: Eduardo Machado (San Cristóbal)
+housenumber: ""
 phone: ""
-opening_hours: "07:00-11:00,16:00-19:00"
+opening_hours: 07:00-11:00,16:00-19:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 23.03735
 longitude: -81.54174
 postcode: "40100"
 city: Matanzas
-street: "Calzada General Betancourt"
-housenumber: 
+street: Calzada General Betancourt
+housenumber: ""
 phone: ""
-opening_hours: "Mo, We, Fr 08:00-12:00, 13:00-16:00; Tu, Th 10:00-12:00, 13:00-16:00; Sa 08:00-12:00"
+opening_hours: Mo, We, Fr 08:00-12:00, 13:00-16:00; Tu, Th 10:00-12:00, 13:00-16:00;
+    Sa 08:00-12:00
 website: ""

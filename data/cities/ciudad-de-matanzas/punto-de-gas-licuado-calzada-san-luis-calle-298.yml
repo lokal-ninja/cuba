@@ -1,11 +1,11 @@
 id: 1294821722
-type: way
+type: node
 latitude: 23.03275
 longitude: -81.58227
 postcode: "40100"
 city: Ciudad de Matanzas
-street: "Calzada San Luis (Calle 298)"
-housenumber: 
+street: Calzada San Luis (Calle 298)
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

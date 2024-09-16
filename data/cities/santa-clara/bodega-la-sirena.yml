@@ -1,11 +1,11 @@
 id: 1154598300
-type: way
+type: node
 latitude: 22.40929
 longitude: -79.96475
 postcode: "50100"
 city: Santa Clara
-street: "Plácido"
-housenumber: 
+street: Plácido
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-11:00,16:00-19:00"
+opening_hours: Mo-Sa 07:00-11:00,16:00-19:00
 website: ""

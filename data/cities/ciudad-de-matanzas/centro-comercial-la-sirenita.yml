@@ -1,11 +1,11 @@
 id: 580492861
-type: way
+type: node
 latitude: 23.03565
 longitude: -81.55183
 postcode: "40100"
 city: Ciudad de Matanzas
-street: "Calzada General Betancourt"
-housenumber: 
+street: Calzada General Betancourt
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-17:00"
+opening_hours: Mo-Su 09:00-17:00
 website: ""

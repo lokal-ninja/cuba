@@ -1,11 +1,11 @@
 id: 823011582
-type: way
+type: node
 latitude: 20.3734
 longitude: -76.6436
 postcode: "87100"
 city: Bayamo
-street: "Avenida Perucho Figueredo"
-housenumber: 460
-phone: "+53 58401758 +53 52454778"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Avenida Perucho Figueredo
+housenumber: "460"
+phone: +53 58401758 +53 52454778
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

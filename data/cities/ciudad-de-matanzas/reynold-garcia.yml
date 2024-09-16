@@ -1,11 +1,11 @@
 id: 881755942
-type: way
+type: node
 latitude: 23.04167
 longitude: -81.52019
 postcode: ""
 city: Ciudad de Matanzas
 street: "144"
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-22:00"
+opening_hours: Mo-Su 09:00-22:00
 website: ""

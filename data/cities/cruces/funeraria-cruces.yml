@@ -1,11 +1,11 @@
 id: 390311101
-type: way
+type: node
 latitude: 22.34365
 longitude: -80.2707
 postcode: ""
 city: Cruces
-street: "Heredia"
-housenumber: 80
+street: Heredia
+housenumber: "80"
 phone: "572423"
 opening_hours: ""
 website: ""

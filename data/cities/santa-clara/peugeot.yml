@@ -1,11 +1,11 @@
 id: 1092371311
-type: way
+type: node
 latitude: 22.40255
 longitude: -79.95108
 postcode: "50100"
 city: Santa Clara
-street: "Carretera Central"
-housenumber: 
+street: Carretera Central
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

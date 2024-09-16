@@ -1,11 +1,11 @@
 id: 448760965
-type: way
+type: node
 latitude: 22.82389
 longitude: -82.35727
 postcode: "33500"
 city: Quivicán
 street: "20"
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

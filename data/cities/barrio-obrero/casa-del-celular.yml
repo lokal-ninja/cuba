@@ -1,11 +1,11 @@
 id: 516864166
-type: way
+type: node
 latitude: 23.10556
 longitude: -82.3332
 postcode: "11000"
 city: Barrio Obrero
-street: "24 de Febrero"
+street: 24 de Febrero
 housenumber: 22A02
 phone: "+5353817578"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "http://www.casadelcelularcuba.com/"
+opening_hours: Mo-Su 10:00-20:00
+website: http://www.casadelcelularcuba.com/

@@ -1,11 +1,11 @@
 id: 1154123442
-type: way
+type: node
 latitude: 22.40483
 longitude: -79.96393
 postcode: "50100"
 city: Santa Clara
-street: "Colón"
-housenumber: 101
+street: Colón
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.hotelescubanacan.com/"
+website: https://www.hotelescubanacan.com/

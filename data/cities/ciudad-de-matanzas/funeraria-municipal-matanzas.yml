@@ -1,11 +1,11 @@
 id: 859852366
-type: way
+type: node
 latitude: 23.04513
 longitude: -81.58375
 postcode: "40100"
 city: Ciudad de Matanzas
-street: "Río (calle 91)"
-housenumber: 
-phone: "4524 3753"
-opening_hours: "24/7"
+street: Río (calle 91)
+housenumber: ""
+phone: 4524 3753
+opening_hours: 24/7
 website: ""

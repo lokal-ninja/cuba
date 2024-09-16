@@ -1,11 +1,11 @@
 id: 416374063
-type: way
+type: node
 latitude: 23.11875
 longitude: -82.40199
 postcode: "10400"
 city: La Habana
-street: "Avenida 26"
-housenumber: 
+street: Avenida 26
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-15:00,Sa 10:00-15:00"
+opening_hours: Mo-Fr 07:00-15:00,Sa 10:00-15:00
 website: ""

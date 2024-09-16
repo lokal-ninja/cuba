@@ -1,11 +1,11 @@
 id: 307791172
-type: way
+type: node
 latitude: 22.34237
 longitude: -80.27169
 postcode: ""
 city: Cruces
-street: "Paseo del Prado"
-housenumber: 
+street: Paseo del Prado
+housenumber: ""
 phone: ""
-opening_hours: "09:00-17:30"
+opening_hours: 09:00-17:30
 website: ""

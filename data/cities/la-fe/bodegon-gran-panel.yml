@@ -1,11 +1,11 @@
 id: 308933433
-type: way
+type: node
 latitude: 21.73715
 longitude: -82.75572
 postcode: "27200"
 city: La Fe
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-11:00,16:00-20:00"
+opening_hours: Mo-Sa 08:00-11:00,16:00-20:00
 website: ""

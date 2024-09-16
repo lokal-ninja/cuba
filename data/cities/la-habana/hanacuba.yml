@@ -2,10 +2,10 @@ id: 6221338285
 type: node
 latitude: 23.14187
 longitude: -82.38222
-postcode: "#255"
+postcode: '#255'
 city: La Habana
-street: "Calle N"
-housenumber: 78323868
-phone: "+53 56852348"
-opening_hours: "24/7"
+street: Calle N
+housenumber: "78323868"
+phone: +53 56852348
+opening_hours: 24/7
 website: ""

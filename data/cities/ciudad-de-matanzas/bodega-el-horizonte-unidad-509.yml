@@ -1,11 +1,11 @@
 id: 892468180
-type: way
+type: node
 latitude: 23.03337
 longitude: -81.52615
 postcode: ""
 city: Ciudad de Matanzas
-street: "Calle 170"
-housenumber: 
+street: Calle 170
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-11:00, 15:00-19:00; Su 07:00-11:00"
+opening_hours: Mo-Sa 07:00-11:00, 15:00-19:00; Su 07:00-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 539084480
-type: way
+type: node
 latitude: 23.04646
 longitude: -81.57365
 postcode: "40100"
 city: Ciudad de Matanzas
-street: "Milanés (83)"
-housenumber: 
+street: Milanés (83)
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

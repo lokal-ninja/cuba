@@ -1,11 +1,11 @@
 id: 1152982960
-type: way
+type: node
 latitude: 22.39868
 longitude: -79.96095
 postcode: "50100"
 city: Santa Clara
-street: "Miguel Fleites (Misionero)"
-housenumber: 101
+street: Miguel Fleites (Misionero)
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 07:00-11:00, 16:00-19:00"
+opening_hours: Mo-Sa 07:00-11:00, 16:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1173060325
-type: way
+type: node
 latitude: 22.39708
 longitude: -79.95281
 postcode: ""
 city: Santa Clara
-street: "E"
-housenumber: 
+street: E
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-11:00,16:00-19:00"
+opening_hours: Mo-Sa 07:00-11:00,16:00-19:00
 website: ""

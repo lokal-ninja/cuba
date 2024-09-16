@@ -1,11 +1,11 @@
 id: 420813342
-type: way
+type: node
 latitude: 22.24177
 longitude: -80.39316
 postcode: "57300"
 city: Palmira
-street: "Recreo"
-housenumber: 
+street: Recreo
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-16:30"
+opening_hours: Mo-Sa 08:30-16:30
 website: ""

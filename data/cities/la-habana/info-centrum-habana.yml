@@ -4,8 +4,8 @@ latitude: 23.14263
 longitude: -82.37999
 postcode: "10400"
 city: La Habana
-street: "Calle 23 (La Rampa)"
-housenumber: 64
-phone: "+53 78 35 35 35"
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://www.infocentrumhabana.com"
+street: Calle 23 (La Rampa)
+housenumber: "64"
+phone: +53 78 35 35 35
+opening_hours: Mo-Su 10:00-17:00
+website: https://www.infocentrumhabana.com

@@ -1,11 +1,11 @@
 id: 605767500
-type: way
+type: node
 latitude: 22.2431
 longitude: -83.57175
 postcode: "24520"
 city: La Coloma
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

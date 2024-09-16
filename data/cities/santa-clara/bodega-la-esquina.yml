@@ -1,11 +1,11 @@
 id: 1082338126
-type: way
+type: node
 latitude: 22.38946
 longitude: -79.95903
-postcode: "50 100"
+postcode: 50 100
 city: Santa Clara
-street: "Avenida 7 de Diciembre"
-housenumber: 
+street: Avenida 7 de Diciembre
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-11:00, 16:00-19:00"
+opening_hours: Mo-Sa 07:00-11:00, 16:00-19:00
 website: ""

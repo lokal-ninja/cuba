@@ -4,8 +4,8 @@ latitude: 20.02744
 longitude: -75.81593
 postcode: "90900"
 city: Santiago de Cuba
-street: "H"
-housenumber: 112
-phone: "+53 22 663 065"
-opening_hours: "Mo-Su 08:00-20:00"
+street: H
+housenumber: "112"
+phone: +53 22 663 065
+opening_hours: Mo-Su 08:00-20:00
 website: ""

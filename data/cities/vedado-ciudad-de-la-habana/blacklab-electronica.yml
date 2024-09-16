@@ -1,11 +1,11 @@
 id: 766566653
-type: way
+type: node
 latitude: 23.13874
 longitude: -82.39781
 postcode: "10400"
 city: Vedado, Ciudad de La Habana
-street: "Línea (9)"
-housenumber: 652
+street: Línea (9)
+housenumber: "652"
 phone: "+5354828253"
-opening_hours: "09:00-17:00"
+opening_hours: 09:00-17:00
 website: ""

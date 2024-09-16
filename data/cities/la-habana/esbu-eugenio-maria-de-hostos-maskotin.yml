@@ -1,11 +1,11 @@
 id: 860385586
-type: way
+type: node
 latitude: 23.09402
 longitude: -82.37896
 postcode: "10500"
 city: La Habana
-street: "Juan Delgado"
-housenumber: 
+street: Juan Delgado
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

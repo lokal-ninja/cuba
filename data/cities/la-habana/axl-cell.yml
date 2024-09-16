@@ -4,8 +4,8 @@ latitude: 23.13847
 longitude: -82.35585
 postcode: "10100"
 city: La Habana
-street: "O'Reilly"
-housenumber: 464
-phone: "+53 78619522;+53 53540000;+53 52820515;+53 53498236"
-opening_hours: "Mo-Sa 10:00-18:00"
+street: O'Reilly
+housenumber: "464"
+phone: +53 78619522;+53 53540000;+53 52820515;+53 53498236
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 490449604
-type: way
+type: node
 latitude: 23.09339
 longitude: -82.42341
 postcode: ""
 city: La Habana
-street: "Avenida 29F"
-housenumber: 7420
-phone: "7 2034984"
-opening_hours: "Su-Fr 09:00-17:00"
+street: Avenida 29F
+housenumber: "7420"
+phone: 7 2034984
+opening_hours: Su-Fr 09:00-17:00
 website: ""

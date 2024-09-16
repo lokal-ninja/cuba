@@ -1,11 +1,11 @@
 id: 1175178057
-type: way
+type: node
 latitude: 22.41096
 longitude: -79.95294
 postcode: "50100"
 city: Santa Clara
-street: "Felix Huergo"
-housenumber: 
+street: Felix Huergo
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-11:00, 16:00-19:00"
+opening_hours: Mo-Sa 07:00-11:00, 16:00-19:00
 website: ""

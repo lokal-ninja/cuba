@@ -1,11 +1,11 @@
 id: 1202209695
-type: way
+type: node
 latitude: 21.07116
 longitude: -76.27239
 postcode: ""
 city: Bocas
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-11:00, 16:00-19:00"
+opening_hours: Mo-Sa 07:00-11:00, 16:00-19:00
 website: ""

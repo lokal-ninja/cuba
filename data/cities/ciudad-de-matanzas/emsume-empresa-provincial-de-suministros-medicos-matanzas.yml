@@ -1,11 +1,11 @@
 id: 879870846
-type: way
+type: node
 latitude: 23.03638
 longitude: -81.53656
 postcode: "40100"
 city: Ciudad de Matanzas
-street: "Calle 147"
-housenumber: 
+street: Calle 147
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

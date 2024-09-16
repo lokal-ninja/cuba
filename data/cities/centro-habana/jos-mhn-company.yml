@@ -4,8 +4,8 @@ latitude: 23.13321
 longitude: -82.37738
 postcode: "10400"
 city: Centro Habana
-street: "Salud"
-housenumber: 851
+street: Salud
+housenumber: "851"
 phone: "59100940"
-opening_hours: "Su-Fr 09:00-17:30"
-website: "https://jos.ola.click/products"
+opening_hours: Su-Fr 09:00-17:30
+website: https://jos.ola.click/products

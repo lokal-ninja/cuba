@@ -1,11 +1,11 @@
 id: 434355811
-type: way
+type: node
 latitude: 23.19172
 longitude: -81.17374
 postcode: "42200"
 city: Varadero
-street: "Carretera de Las Morlas"
+street: Carretera de Las Morlas
 housenumber: Km 15
-phone: "+53 52637732"
-opening_hours: "Mo-Sa 09:00-16:30"
-website: "https://www.scubaatlantisvaradero.com/"
+phone: +53 52637732
+opening_hours: Mo-Sa 09:00-16:30
+website: https://www.scubaatlantisvaradero.com/

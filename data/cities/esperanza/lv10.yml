@@ -1,11 +1,11 @@
 id: 970259482
-type: way
+type: node
 latitude: 22.44471
 longitude: -80.09694
 postcode: ""
 city: Esperanza
-street: "Martí"
-housenumber: 3
+street: Martí
+housenumber: "3"
 phone: "+5342347213"
 opening_hours: ""
 website: ""
