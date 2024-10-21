@@ -1,5 +1,5 @@
 ---
 title: "Bodega"
-url: /la-coloma/bodega/
+url: /la-habana/bodega/
 shop: comodidad
 ---
