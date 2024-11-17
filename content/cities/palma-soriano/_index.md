@@ -1,6 +1,6 @@
 ---
 title: Palma Soriano
 url: /palma-soriano/
-latitude: 20.2
-longitude: -75.987
+latitude: 20.207
+longitude: -75.993
 ---
