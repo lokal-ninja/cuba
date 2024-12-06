@@ -1,5 +1,5 @@
 ---
-title: "La Guinera"
+title: "La Güinera"
 url: /la-habana/la-guinera/
 shop: supermercado
 ---
