@@ -1,6 +1,6 @@
 ---
 title: Cruces
 url: /cruces/
-latitude: 22.344
-longitude: -80.271
+latitude: 22.342
+longitude: -80.272
 ---
