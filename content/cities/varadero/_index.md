@@ -1,6 +1,6 @@
 ---
 title: Varadero
 url: /varadero/
-latitude: 23.155
-longitude: -81.248
+latitude: 23.193
+longitude: -81.121
 ---

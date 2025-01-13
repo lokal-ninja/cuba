@@ -1,5 +1,5 @@
 ---
 title: "Casilla de Oscar"
 url: /guisa/casilla-de-oscar/
-shop: quiosco
+shop: carnicero
 ---

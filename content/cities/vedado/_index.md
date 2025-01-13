@@ -1,6 +1,6 @@
 ---
 title: Vedado
 url: /vedado/
-latitude: 23.142
-longitude: -82.382
+latitude: 23.138
+longitude: -82.385
 ---
