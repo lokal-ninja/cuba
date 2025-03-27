@@ -1,5 +1,5 @@
 ---
-title: "Pescaderia El Jurel"
+title: "Pescadería El Jurel"
 url: /florida/pescaderia-el-jurel/
 shop: marisco
 ---
