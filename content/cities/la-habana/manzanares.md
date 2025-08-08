@@ -1,5 +1,5 @@
 ---
-title: "Manzanares"
+title: "Manzanares 🍏🍎"
 url: /la-habana/manzanares/
 shop: comodidad
 ---
