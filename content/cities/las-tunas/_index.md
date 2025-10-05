@@ -1,6 +1,6 @@
 ---
 title: Las Tunas
 url: /las-tunas/
-latitude: 20.954
-longitude: -76.973
+latitude: 20.958
+longitude: -76.955
 ---
