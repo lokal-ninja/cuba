@@ -1,5 +1,5 @@
 ---
-title: "Rodamientos ROMAY surl"
+title: "Rodamientos ROMAY SURL"
 url: /centro-habana-la-habana/rodamientos-romay-surl/
-shop: general
+shop: piezas de automóviles
 ---
