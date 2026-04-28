@@ -1,6 +1,6 @@
 ---
 title: Habana
 url: /habana/
-latitude: 23.11
-longitude: -82.412
+latitude: 23.105
+longitude: -82.355
 ---
