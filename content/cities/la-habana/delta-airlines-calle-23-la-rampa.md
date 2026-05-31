@@ -1,5 +1,5 @@
 ---
 title: "Delta Airlines"
-url: /la-habana/delta-airlines-calle-76/
+url: /la-habana/delta-airlines-calle-23-la-rampa/
 shop: agencia de viajes
 ---
