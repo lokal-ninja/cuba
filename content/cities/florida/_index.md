@@ -1,6 +1,6 @@
 ---
 title: Florida
 url: /florida/
-latitude: 21.527
-longitude: -78.23
+latitude: 21.528
+longitude: -78.226
 ---
