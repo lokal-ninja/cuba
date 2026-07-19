@@ -1,6 +1,6 @@
 ---
 title: Quivicán
 url: /quivican/
-latitude: 22.82
-longitude: -82.359
+latitude: 22.822
+longitude: -82.355
 ---
