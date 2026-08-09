@@ -1,5 +1,5 @@
 ---
 title: "Tienda de la Miel La Colmena 🐝"
-url: /habana-vieja/tienda-de-la-miel-la-colmena/
+url: /ciudad-de-matanzas/tienda-de-la-miel-la-colmena/
 shop: colmenar
 ---
