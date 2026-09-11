@@ -1,6 +1,6 @@
 ---
 title: Imías
 url: /imias/
-latitude: 20.068
-longitude: -74.63
+latitude: 20.07
+longitude: -74.632
 ---

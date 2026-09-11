@@ -1,5 +1,5 @@
 ---
 title: "Raizalma"
-url: /las-tunas/raizalma/
+url: /reparto-aurora/raizalma/
 shop: masaje
 ---
