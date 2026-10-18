@@ -1,5 +1,5 @@
 ---
-title: "Panadería de TOYO"
+title: "Panadería de Toyo"
 url: /la-habana/panaderia-de-toyo/
 shop: panadería
 ---
